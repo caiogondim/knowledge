@@ -10,5 +10,8 @@ Tips and tricks I learned along the way.
 ### Git
 - [Search for commits that introduced or removed a `string`](https://github.com/caiogondim/knowledge/blob/master/git/index.md)
 
+### MacOS
+- [Jump between words with spelling errors (red dotted line)](https://github.com/caiogondim/knowledge/blob/master/macos/index.md#jump-between-words-with-spelling-errors-red-dotted-line)
+
 ## Credits
 - Icon by Francielly Costantin Senra
