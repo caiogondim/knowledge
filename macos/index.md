@@ -1,4 +1,4 @@
-# Jump between words with spelling errors (red dotted line)
+## Jump between words with spelling errors (red dotted line)
 
 Use `cmd` + `;` to jump between words with spelling errors.
 
