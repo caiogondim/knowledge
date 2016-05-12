@@ -17,5 +17,10 @@ Tips and tricks I learned along the way.
 ### Javascript
 - [event targets](https://github.com/caiogondim/knowledge/blob/master/javascript/index.md)
 
+### Apps
+
+#### iTerm
+- [drag and drop to rearrange panels](https://github.com/caiogondim/knowledge/blob/master/apps/iterm.md#cmd--alt--shift--drag-to-arrange-panels)
+
 ## Credits
 - Icon by Francielly Costantin Senra
