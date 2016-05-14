@@ -13,6 +13,7 @@ Tips and tricks I learned along the way.
 ### MacOS
 - [Jump between words with spelling errors (red dotted line)](https://github.com/caiogondim/knowledge/blob/master/macos/index.md#jump-between-words-with-spelling-errors-red-dotted-line)
 - [Shortcut for "Don't save" on save dialog](https://github.com/caiogondim/knowledge/blob/master/macos/index.md#shortcut-for-dont-save-on-save-dialog)
+- [Auto-mount network drive](https://github.com/caiogondim/knowledge/blob/master/macos/index.md#auto-mount-network-drive)
 
 ### Javascript
 - [event targets](https://github.com/caiogondim/knowledge/blob/master/javascript/index.md)
