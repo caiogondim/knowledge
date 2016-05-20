@@ -18,6 +18,9 @@ Tips and tricks I learned along the way.
 ### Javascript
 - [event targets](https://github.com/caiogondim/knowledge/blob/master/javascript/index.md)
 
+### CSS
+- [Flip (mirror) elements horizontally and vertically](https://github.com/caiogondim/knowledge/blob/master/css/index.md#flip-mirror-elements)
+
 ### Apps
 
 #### iTerm
