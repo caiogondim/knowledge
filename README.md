@@ -26,5 +26,8 @@ Tips and tricks I learned along the way.
 #### iTerm
 - [drag and drop to rearrange panels](https://github.com/caiogondim/knowledge/blob/master/apps/iterm.md#cmd--alt--shift--drag-to-arrange-panels)
 
+### Chrome
+- [WASD to navigate on timeline devtools tab](https://github.com/caiogondim/knowledge/blob/master/apps/chrome.md#wasd-to-navigate-on-timeline-devtools-tab)
+
 ## Credits
 - Icon by Francielly Costantin Senra
