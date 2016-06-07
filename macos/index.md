@@ -15,3 +15,9 @@ Use `cmd` + `;` to jump between words with spelling errors.
 Darg and drop the volume to your login items.
 
 <img src="http://rawgit.com/caiogondim/knowledge/master/macos/img/auto-mount-network-drive.gif" alt="Auto-mount network drive">
+
+## New folder with selected items
+
+`cmd` + `control` + `n` to create a new folder with selected items.
+
+<img src="http://rawgit.com/caiogondim/knowledge/master/macos/img/new-folder-with-selected-items.gif" alt="Auto-mount network drive">
