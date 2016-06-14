@@ -3,3 +3,9 @@
 ```bash
 git log -Sstring | tig
 ```
+
+## Grep in files with certain extensions
+
+```bash
+git grep lorem -- '*.js'
+````

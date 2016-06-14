@@ -9,6 +9,7 @@ Tips and tricks I learned along the way.
 
 ### Git
 - [Search for commits that introduced or removed a `string`](https://github.com/caiogondim/knowledge/blob/master/git/index.md)
+- [Grep in files with certain extensions](https://github.com/caiogondim/knowledge/blob/master/git/index.md#grep-in-files-with-certain-extensions)
 
 ### MacOS
 - [Jump between words with spelling errors (red dotted line)](https://github.com/caiogondim/knowledge/blob/master/macos/index.md#jump-between-words-with-spelling-errors-red-dotted-line)
